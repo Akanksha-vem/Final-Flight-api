@@ -48,6 +48,9 @@ After running the second command Push your image into ECS and then Run the Third
 6. flights/both - get flight details by both place and date
 7. flights/flight-summary - get flight Summary
 8. swagger/ - swagger documenatation for above all API endpoints.
+9. 
 ADD **staticfiles** by using command
+
 **python manage.py collectstatic**
+
 Here , I removed dependecies install everything and make use of virtual environment.
