@@ -1,0 +1,45 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+.venv/
+env.bak/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+*.cover
+*.py,cover
+
+# Coverage reports
+coverage.xml
+*.cover
+*.py,cover
+*.log
+
+
+# Static files
+staticfiles/
+
+
+
+# IDE and editor directories
+.vscode/
+.idea/
+
+# Dependency directories
+node_modules/
+
+.env
+".env" 
+".env" 
